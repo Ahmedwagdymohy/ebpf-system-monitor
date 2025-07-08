@@ -89,7 +89,7 @@ pip3 install -r requirements.txt  # if you create one
 
 ### 3. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ahmedwagdymohy/ebpf-system-monitor
 cd ebpf-system-monitor
 ```
 
